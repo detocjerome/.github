@@ -57,7 +57,7 @@ This work would not have been possible without Data Terra’s leadership in fost
 ---
 
 ### Supported by
-<img src="logos/data-terra.png" alt="Data Terra" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
-<img src="logos/lifewatch.png" alt="LifeWatch ERIC" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
+<img src="logos/dataterra.png" alt="Data Terra" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
+<img src="logos/lifewatch.jpg" alt="LifeWatch ERIC" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
 <img src="logos/eosc_dt.png" alt="EOSC Node Data Terra" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
 
