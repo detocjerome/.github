@@ -1,6 +1,19 @@
-# Environmental Sciences Research Software & Tools
+# Earth System Research Software & Tools
 
-**Mission**: Promote best practices for Research Software in environmental sciences and federate tools across EOSC nodes.
+*Research software and tools for the full Earth System — atmosphere, ocean, land, ice, and biosphere — accessible across platforms and aligned with FAIR principles.*
+ 
+**Objective**: Federate Earth System research software and tools across EOSC nodes, ensuring interoperability between platforms and communities.
+
+---
+
+## 🌍 About Us
+
+This initiative aims to:
+
+- **Federate Earth System tools and catalogs**.
+- **Improve interoperability** between Virtual Researh Environments (VREs).
+- **Create a governance** for tool repositories, reviews, and merges.
+- **Develop a cross-EOSC node organization** to align with European Open Science Cloud (EOSC) standards.
 
 ---
 
@@ -8,40 +21,16 @@
 
 We are a cross-EOSC node initiative bringing together the environmental science communities to:
 
-- **Champion best practices** for Research Software development, sustainability, citation, and reuse, aligned with **FAIR** and **FAIR4RS** principles.
 - **Federate tools and catalogs** across environmental domains.
+- **Share practices** for Research Software development, sustainability, citation, and reuse.
 - **Improve interoperability** between Virtual Research Environments (VREs), platforms, and infrastructures.
-- **Establish shared governance** for tool repositories, reviews, contributions, and quality criteria.
-- **Build a community-driven catalog** of research software for environmental sciences, inspired by [bio.tools](https://bio.tools/) but designed for the full breadth of our domains.
-- **Act as a centre of excellence** — a reference point for developers, researchers, and infrastructures across the European Open Science Cloud (EOSC).
-
----
-
-## 🌐 Scope
-
-Environmental sciences span many connected domains, and so do we:
-
-- 🌡️ **Climate** — atmospheric models, climate projections, reanalysis tools
-- 🌎 **Earth System** — solid earth, hydrology, cryosphere, geodesy
-- 🌿 **Biodiversity & Ecology** — species data, ecological modeling, ecosystem services, virtual research environments
-- 🌊 **Marine & Ocean** — observations, biogeochemistry, marine biodiversity
-- 🛰️ **Earth Observation** — satellite and in-situ data processing
-
-We work across these domains rather than siloing them, because the science increasingly demands it.
+- **And more along the way** — shaped by the community as this initiative grows.
 
 ---
 
 ## 💬 Where to find us
 
 Join us on Matrix: [#galaxyproject_earth-climate-ecology-sciences:matrix.org](https://matrix.to/#/#galaxyproject_earth-climate-ecology-sciences:matrix.org)
-
-Our community is supported by maintainers across domains:
-
-- **Anne** — Climate
-- **Marie** — Earth System science
-- **Yvan** — Ecology — see also the [tools-ecology repository](https://github.com/galaxyecology/tools-ecology)
-- **[TBD]** — Biodiversity (LifeWatch ERIC)
-- **[TBD]** — Marine (contributions welcome)
 
 Together, we help users and developers with questions, ideas, and challenges around modeling, data, processes, software engineering, and cross-disciplinary topics.
 
@@ -57,9 +46,9 @@ Together, we help users and developers with questions, ideas, and challenges aro
 
 ---
 
-## ✨ Vision
+## Vision
 
-> *"A federated, interoperable ecosystem for environmental science research software — across Earth System, Climate, Biodiversity, Ecology, and Marine domains — accessible across platforms and aligned with FAIR and FAIR4RS principles."*
+> *"A federated, interoperable ecosystem for Earth System Software & tools, accessible across platforms and aligned with FAIR principles."*
 
 ---
 
@@ -78,8 +67,6 @@ Their expertise in **data interoperability**, **FAIR principles**, **community-d
 ---
 
 ### Supported by
-
 <img src="logos/dataterra.png" alt="Data Terra" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
 <img src="logos/lifewatch.jpg" alt="LifeWatch ERIC" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
-<img src="logos/envri.png" alt="ENVRI" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
 <img src="logos/eosc_dt.png" alt="EOSC Node Data Terra" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
