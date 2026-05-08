@@ -1,6 +1,6 @@
 # Environmental Sciences Research Software & Tools
 
-**Mission**: Promote best practices for Research Software in environmental sciences and federate tools across EOSC nodes — spanning Earth System, Climate, Biodiversity, Ecology, and Marine science communities.
+**Mission**: Promote best practices for Research Software in environmental sciences and federate tools across EOSC nodes.
 
 ---
 
@@ -9,7 +9,7 @@
 We are a cross-EOSC node initiative bringing together the environmental science communities to:
 
 - **Champion best practices** for Research Software development, sustainability, citation, and reuse, aligned with **FAIR** and **FAIR4RS** principles.
-- **Federate tools and catalogs** across Earth System, Climate, Biodiversity, Ecology, and Marine science domains.
+- **Federate tools and catalogs** across environmental domains.
 - **Improve interoperability** between Virtual Research Environments (VREs), platforms, and infrastructures.
 - **Establish shared governance** for tool repositories, reviews, contributions, and quality criteria.
 - **Build a community-driven catalog** of research software for environmental sciences, inspired by [bio.tools](https://bio.tools/) but designed for the full breadth of our domains.
