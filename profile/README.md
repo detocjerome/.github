@@ -17,9 +17,6 @@ This initiative aims to:
 
 ---
 
-## 🌍 About Us
-
-We are a cross-EOSC node initiative bringing together the environmental science communities to:
 
 - **Federate tools and catalogs** across environmental domains.
 - **Share practices** for Research Software development, sustainability, citation, and reuse.
