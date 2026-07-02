@@ -2,7 +2,7 @@
 
 *Research software and tools for the full Earth System — atmosphere, ocean, land, ice, and biosphere — accessible across platforms and aligned with FAIR principles.*
  
-**Objective**: Federate Earth System research software and tools across EOSC nodes, ensuring interoperability between platforms and communities.
+**Objective**: Federate Earth System research software and tools across europe, ensuring interoperability between platforms and communities.
 
 ---
 
@@ -13,7 +13,7 @@ This initiative aims to:
 - **Federate Earth System tools and catalogs**.
 - **Improve interoperability** between Virtual Researh Environments (VREs).
 - **Create a governance** for tool repositories, reviews, and merges.
-- **Develop a cross-EOSC node organization** to align with European Open Science Cloud (EOSC) standards.
+- **Develop european collaborations** to foster cross-domain work.
 
 ---
 
@@ -51,13 +51,12 @@ Together, we help users and developers with questions, ideas, and challenges aro
 
 ## 🙏 Acknowledgments
 
-This initiative builds on the work of communities, infrastructures, and EOSC nodes that have championed open science and sustainable research software in environmental sciences. We are grateful for their leadership and ongoing collaboration.
+This initiative builds on the work of communities and research infrastructures, that have championed open science and sustainable research software in environmental sciences. We are grateful for their leadership and ongoing collaboration.
 
 In particular, we recognize:
 
-- **[Data Terra](https://www.data-terra.org/)** — for its leadership in Earth System data infrastructure, open science, and the EOSC Node it operates.
+- **[Data Terra](https://www.data-terra.org/)** research infrastructure — for its work in earth system data, open science, and dynamic communities accros it's five thematic hubs (Odatis, Pndb, Theia, Formater, and Aeris).
 - **[LifeWatch ERIC](https://www.lifewatch.eu/)** — the European e-Science infrastructure for biodiversity and ecosystem research, providing virtual labs, services, and a thriving community across the biodiversity domain.
-- **[ENVRI](https://envri.eu/)** — the cluster of European environmental research infrastructures driving cross-domain integration across atmosphere, marine, solid earth, and biodiversity.
 
 Their expertise in **data interoperability**, **FAIR principles**, **community-driven research**, and **research software sustainability** has been instrumental in shaping this initiative — and remains central to its future.
 
@@ -66,4 +65,3 @@ Their expertise in **data interoperability**, **FAIR principles**, **community-d
 ### Supported by
 <img src="logos/dataterra.png" alt="Data Terra" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
 <img src="logos/lifewatch.jpg" alt="LifeWatch ERIC" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
-<img src="logos/eosc_dt.png" alt="EOSC Node Data Terra" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
