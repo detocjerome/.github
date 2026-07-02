@@ -27,6 +27,7 @@ This initiative aims to:
 
 ## 💬 Where to find us
 
+### For Galaxy questions
 Join us on Matrix: [#galaxyproject_earth-climate-ecology-sciences:matrix.org](https://matrix.to/#/#galaxyproject_earth-climate-ecology-sciences:matrix.org)
 
 Together, we help users and developers with questions, ideas, and challenges around modeling, data, processes, software engineering, and cross-disciplinary topics.
@@ -35,7 +36,7 @@ Together, we help users and developers with questions, ideas, and challenges aro
 
 ## 🤝 How to Contribute
 
-1. **Reach out** — join the [Matrix room](https://matrix.to/#/#galaxyproject_earth-climate-ecology-sciences:matrix.org).
+1. **Reach out** — join the Galaxy [Matrix room](https://matrix.to/#/#galaxyproject_earth-climate-ecology-sciences:matrix.org).
 2. **Join the discussion** — open an issue in the [earth-data-community](https://github.com/earth-data-community) repository.
 3. **Propose tools** — submit a PR to add your software to the catalog, following our metadata and quality guidelines.
 4. **Review & merge** — follow the governance guidelines (TBD).
