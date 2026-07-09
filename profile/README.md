@@ -11,7 +11,7 @@
 This initiative aims to:
 
 - **Federate Earth System tools and catalogs**.
-- **Improve interoperability** between Virtual Researh Environments (VREs).
+- **Improve interoperability** between Virtual Researh Environments (VREs), platforms, and infrastructures.
 - **Create a governance** for tool repositories, reviews, and merges.
 - **Develop european collaborations** to foster cross-domain work.
 
@@ -20,7 +20,6 @@ This initiative aims to:
 
 - **Federate tools and catalogs** across environmental domains.
 - **Share practices** for Research Software development, sustainability, citation, and reuse.
-- **Improve interoperability** between Virtual Research Environments (VREs), platforms, and infrastructures.
 - **And more along the way** — shaped by the community as this initiative grows.
 
 ---
@@ -36,11 +35,13 @@ Together, we help users and developers with questions, ideas, and challenges aro
 
 ## 🤝 How to Contribute
 
+1. **Join the discussion** — open an issue in the [earth-data-community](https://github.com/earth-data-community) repository.
+2. **Propose tools** — submit a PR to add your software to the catalog, following our metadata and quality guidelines.
+3. **Review & merge** — follow the governance guidelines (TBD).
+4. **Share best practices** — contribute to our guides on research software sustainability, citation, packaging, testing, and reproducibility.
+
+### For Galaxy questions
 1. **Reach out** — join the Galaxy [Matrix room](https://matrix.to/#/#galaxyproject_earth-climate-ecology-sciences:matrix.org).
-2. **Join the discussion** — open an issue in the [earth-data-community](https://github.com/earth-data-community) repository.
-3. **Propose tools** — submit a PR to add your software to the catalog, following our metadata and quality guidelines.
-4. **Review & merge** — follow the governance guidelines (TBD).
-5. **Share best practices** — contribute to our guides on research software sustainability, citation, packaging, testing, and reproducibility.
 
 ---
 
