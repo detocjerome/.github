@@ -1,8 +1,8 @@
-# Earth System Research Software & Tools
+# Earth Data Community
 
-*Research software and tools for the full Earth System — atmosphere, ocean, land, ice, and biosphere — accessible across platforms and aligned with FAIR principles.*
- 
-**Objective**: Federate Earth System research software and tools across europe, ensuring interoperability between platforms and communities.
+*A collaborative repository for community documentation, contribution guidelines and shared resources related to Earth System research software and tools.*
+
+**Objective**: Federate Earth System research software and tools across Europe, ensuring interoperability between platforms and communities.
 
 ---
 
