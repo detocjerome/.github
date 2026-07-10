@@ -9,8 +9,7 @@
 ## 🌍 About Us
 
 The Earth Data Community brings together researchers, research infrastructures, and software developers working across Earth System Science.
-This GitHub organisation provides a collaborative space to share community documentation, contribution guidelines, and shared resources supporting this effort
-
+This GitHub organisation provides a collaborative space to share community documentation, contribution guidelines, and shared resources supporting interoperable and sustainable research software.
 Together, the community aims to:
 
 - **Federate Earth System tools and catalogs**.
