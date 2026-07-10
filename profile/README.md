@@ -1,6 +1,6 @@
 # Earth Data Community
 
-*A collaborative repository for community documentation, contribution guidelines and shared resources related to Earth System research software and tools.*
+*A GitHub organisation for community documentation, contribution guidelines and shared resources related to Earth System research software and tools.*
 
 **Objective**: Federate Earth System research software and tools across Europe, ensuring interoperability between platforms and communities.
 
@@ -8,11 +8,14 @@
 
 ## 🌍 About Us
 
-This initiative aims to:
+The Earth Data Community brings together researchers, research infrastructures, and software developers working across Earth System Science.
+This GitHub organisation provides a collaborative space to share community documentation, contribution guidelines, and shared resources supporting this effort
+
+Together, the community aims to:
 
 - **Federate Earth System tools and catalogs**.
 - **Improve interoperability** between Virtual Researh Environments (VREs), platforms, and infrastructures.
-- **Create a governance** for tool repositories, reviews, and merges.
+- **Share practices** for research software development, sustainability, citation, and reuse.
 - **Develop european collaborations** to foster cross-domain work.
 
 ---
